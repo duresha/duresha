@@ -18,7 +18,6 @@ Welcome to my GitHub profile!
 
 ## 📫 How to reach me
 - GitHub: [duresha](https://github.com/duresha)
-- Email: your.email@example.com
 
 ## ✨ Resume Highlights
 - Built and contributed to several open source projects
